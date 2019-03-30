@@ -24,7 +24,7 @@ img {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-right: 20px;
     padding-top: 10px;
 }
