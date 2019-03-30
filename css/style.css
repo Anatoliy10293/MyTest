@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Roboto', Arial, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 24px;
     color: #283136;
     background-color: #eeeeee;
@@ -24,7 +24,7 @@ img {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-right: 20px;
     padding-top: 10px;
 }
@@ -34,7 +34,7 @@ img {
 }
 
 .main-header-logo img {
-    width: 160px;
+    width: 200px;
     height: auto;
 }
 
